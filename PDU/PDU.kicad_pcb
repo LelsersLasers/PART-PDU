@@ -117,7 +117,7 @@
 		)
 	)
 	(net 0 "")
-	(gr_text "PART PDU"
+	(gr_text "PART PDU PCB"
 		(at 56 30 0)
 		(layer "F.Cu")
 		(uuid "56ebb7ef-86fe-4a7d-836e-ff74ab335abd")
